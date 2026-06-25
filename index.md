@@ -12,9 +12,13 @@ Email: kwoncar3@gmail.com
 * FAE(field application engineer)
 * DevOPS
 * ML 개발자
+
+
 ## 교육
 SSAFY 최우수 졸업자  
 sw마에스트로 대상 수상자
+
+
 ## 인턴 경력
 삼성 드림클래스 멘토 25.03 ~ 26.02
 삼성 SDS 인턴 27.02 ~ 27.03  
